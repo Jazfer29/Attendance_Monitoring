@@ -25,6 +25,7 @@
         </li>
 
         <!-- language-->
+        <!-- 
         <li class="dropdown notification-list d-none d-md-block">
             <a class="nav-link dropdown-toggle arrow-none waves-effect" data-toggle="dropdown" href="#" role="button" aria-haspopup="false" aria-expanded="false">
                 <img src="assets/images/flags/us_flag.jpg" class="mr-2" height="12" alt=""/> English <span class="mdi mdi-chevron-down"></span>
@@ -37,13 +38,15 @@
                 <a class="dropdown-item" href="#"><img src="assets/images/flags/russia_flag.jpg" alt="" height="16" /><span> Russian </span></a>
             </div>
         </li>
-
+        -->
         <!-- full screen -->
+        <!--
         <li class="dropdown notification-list d-none d-md-block">
             <a class="nav-link waves-effect" href="#" id="btn-fullscreen">
                 <i class="mdi mdi-fullscreen noti-icon"></i>
             </a>
         </li>
+        -->
 
         <!-- notification -->
         <li class="dropdown notification-list">
